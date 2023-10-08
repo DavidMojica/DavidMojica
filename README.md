@@ -15,17 +15,11 @@
 </p>
 
 <h3 > <img src="https://cdn-icons-png.flaticon.com/128/1343/1343438.png?ga=GA1.1.474962155.1696794002&track=ais" width="30" align="center"> Backend & Frontend Stack</h3>
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png?ga=GA1.1.474962155.1696794002&track=ais" width="40" align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png?ga=GA1.1.474962155.1696794002&track=ais" width="40" align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png?ga=GA1.1.474962155.1696794002&track=ais" width="40" align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/919/919830.png?ga=GA1.1.474962155.1696794002&track=ais" width="40" align="center">
-<img src="https://img.icons8.com/?size=64&id=bQNDZ3K3MrLb&format=png" width="40" align="center">
- 
-<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png?ga=GA1.1.474962155.1696794002&track=ais" width="40" align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png?ga=GA1.1.474962155.1696794002&track=ais" width="40" align="center">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png?ga=GA1.1.474962155.1696794002&track=ais" width="40" align="center">
-<img src="https://img.icons8.com/?size=80&id=Xf1sHBmY73hA&format=png" width="40" align="center">
-<img src="https://img.icons8.com/?size=80&id=JolcTF0vSeVB&format=png" width="40" align="center">
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 <h3> <img src="https://img.icons8.com/?size=80&id=64502&format=png" width="30" align="center"> Database Stack</h3>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/phpmyadmin-icon.png" width="60" align="center">
