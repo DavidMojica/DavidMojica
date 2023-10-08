@@ -1,9 +1,89 @@
-# 💫 About Me:
-Hello! I'm David, a skilled Backend Software Developer from the city of Medellín, Colombia. My enthusiasm for technology and software development has been a constant in my life, and my determination to excel in this field drives me every day.<br><br>I love learning about new technologies, always ready to dive into diverse projects that require planning and programming. Additionally, I enjoy staying updating with the latest trends and advancements. I firmly believe that continuous learning is the key to stand out in this competitive digital universe, and I am committed to constantly acquiring new skills and knowledge.<br><br>My journey in the programming world began 2 years ago and has been amazing. It has given me the opportunity to work on various projects, from websites to Discord bots, video games, and more. I am eager to participate in challenging projects that not only allow me to apply my current skills but also to learn and grow professionally.<br><br>My approach goes beyond writing code; I'm passionate about creating effective and efficient solutions that solve real problems and enhance user experiences. Valuing collaboration and teamwork, I believe that effective and agile development requires group effort and coordination, which is why I enjoy teamwork.<br><br>I am open to new professional opportunities and would love to be part of projects that not only allow me to contribute my knowledge but also learn from those who know more than I do, taking my skills to the next level.<br><br>Let's discuss how we can collaborate and create amazing things together!<br>[Visit my online SemiCv](http://davidmojica.42web.io/)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+
+<div style="
+display: flex;
+margin-bottom:10%;
+justify-content: center;
+padding:5%;
+align-items: center;
+background: linear-gradient(45deg, rgb(26, 1, 117) 0%, rgba(225, 5, 34, 0) 70%) repeat scroll 0% 0%, 
+linear-gradient(135deg, rgb(225, 5, 152) 10%, rgba(49, 5, 209, 0) 80%) repeat scroll 0% 0%, 
+linear-gradient(225deg, hsla(179, 81%, 45%, 1) 10%, rgba(10, 219, 216, 0) 80%) repeat scroll 0% 0%,
+rgba(0, 0, 0, 0) linear-gradient(315deg, rgb(189, 5, 245) 100%, rgba(9, 245, 5, 0) 70%) repeat scroll 0% 0%;
+border-radius:2em 5em;">
+<h1 style="text-align:center; font-family:consolas; color:#fff; ">Greetings! I'm <a href="http://davidmojica.42web.io/" target="_BLANK" style="color:#F7AC59; text-decoration:underline;">David Mojica</a>👨🏻‍💻</h1>
+<h2 style="text-align:center; color:#fff; font-size: 2em;">Backend Software Developer from
+<strong style="color:#F7C700;">Colo</strong><strong style="color:#002E83;">mb</strong><strong style="color:#C20F2D;">ia </strong>
+<i class="fas fa-heart fa-2x" style="font-size:24px; color:#F7C700;"></i></h2>
+</div>
 
 
-# 👄 Chat with TriAxis (me):
-[![Discord](https://cdn-icons-png.flaticon.com/128/3670/3670157.png)](https://discord.gg/https://discord.gg/7VGKbDUh) [![Twitch](https://cdn-icons-png.flaticon.com/128/11104/11104203.png)](https://twitch.tv/caraqlo) [![WhatsApp](https://cdn-icons-png.flaticon.com/128/3025/3025546.png)](https://wa.link/oxztt4)
+<div style="
+display: grid;
+grid-template-columns:1fr 1fr;
+gap:10px;
+place-items: center;
+text-align: justify;">
+<h3></h3>
+<h3>📩 Chat with me 📨</h3>
+<p style="font-family:CONSOLAS; font-weight:1000;">💫 I'm a Software Development student at I.U Pascual Bravo, soon to graduate in less than 8 months. I've been freelancing as a developer, working on web development, desktop applications, videogames, and Discord bots. </p>
+
+
+<div style="
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:25px;">
+<a href="https://api.whatsapp.com/send/?phone=573197750000" target="_blank" style=" margin: 0;
+padding: 0;
+box-sizing: border-box;
+display: grid;
+place-items: center;
+padding: 35px 35px;
+font-size: 28px;
+box-shadow: 0px 0px 25px rgba(13, 193, 67, 0.8);
+transition: 0.2s;
+cursor: pointer;
+background:#0DC143;
+color:#fff;"><i class="fab fa-whatsapp"></i></a>
+<a href="https://twitch.tv/caraqlo" target="_blank" style=" margin: 0;
+padding: 0;
+box-sizing: border-box;
+display: grid;
+place-items: center;
+padding: 35px 35px;
+font-size: 28px;
+box-shadow: 0px 0px 25px rgba(131, 58, 235, 0.8);
+cursor: pointer;
+background:#833AEB;
+color:#fff;"><i class="fa-brands fa-twitch"></i></a>
+<a href="https://discord.gg/https://discord.gg/7VGKbDUh" target="_blank" style=" margin: 0;
+padding: 0;
+box-sizing: border-box;
+display: grid;
+place-items: center;
+padding: 35px 35px;
+font-size: 28px;
+box-shadow: 0px 0px 25px rgba(88, 101, 242, 0.8);
+cursor: pointer;
+background:#5865f2;
+color:#fff;"><i class="fa-brands fa-discord"></i></a>
+<a href="https://www.linkedin.com/in/david-mojica-vergara-a3898a265/" target="_blank" style=" margin: 0;
+padding: 0;
+box-sizing: border-box;
+display: grid;
+place-items: center;
+padding: 35px 35px;
+font-size: 28px;
+box-shadow: 0px 0px 25px rgba(0, 119, 181, 0.8);
+cursor: pointer;
+background:#0077b5;
+color:#fff;"><i class="fa-brands fa-linkedin"></i></a>
+</div>
+<h3><a href="https://pascualbravo.edu.co/" target="_BLANK" style="font-size:18px;"><i class="fa-solid fa-link"></i>Institución Universitaria Pascual Bravo</a></h3>
+
+<h4 style="font-family:consolas;"><i class="fa-solid fa-language" style="color:royalblue; font-size:22px;"></i> ES/EN</h4>
+</div>
+
 # 🌎 Backend Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 🪐 Frontend Tech Stack:
