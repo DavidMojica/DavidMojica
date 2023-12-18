@@ -14,7 +14,7 @@
     <a href="https://twitch.tv/caraqlo"> <img align="center" alt="wa+573197750000" src="https://cdn-icons-png.flaticon.com/128/2111/2111668.png?ga=GA1.1.474962155.1696794002&track=ais" height="40" width="40"></a>
 </p>
 
-<p align="center>
+<p align="center">
     <h3 > <img src="https://cdn-icons-png.flaticon.com/128/1343/1343438.png?ga=GA1.1.474962155.1696794002&track=ais" width="30" align="center"> Backend & Frontend Stack</h3>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
