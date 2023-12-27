@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DavidMojicaDev&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="center" > THE DAYLY PINNACLE OF COMEDY<h3>
+<h3 align="center" >Comedy zone<h3>
 <p align="center"><img align=center src='https://randommeme-five.vercel.app/' style="height: 300px;"/></p>
 
 ---
