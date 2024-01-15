@@ -4,7 +4,7 @@
 
 <h3 align="center">🏆 <a href="http://davidmojica.42web.io/">Visit my Resume</a> 🏆</h3>
 
-<h3 align="center">let's talk together <img src="https://cdn-icons-png.flaticon.com/128/3002/3002655.png?ga=GA1.1.474962155.1696794002&track=ais"  align="center" width="40" height="40"> </h3>
+<h3 align="center">let's talk together <img src="https://cdn-icons-png.flaticon.com/128/3002/3002655.png?ga=GA1.1.474962155.1696794002&track=ais"  align="center" width="40" height="40"> </h3>s
 <p align="center">I'm open to work in collaborative projects</p>
 
 <p align="center">
