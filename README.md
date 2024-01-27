@@ -38,7 +38,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=DavidMojicaDev&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="center" >Comedy zone<h3>
-<p align="center"><img align=center src='https://randommeme-five.vercel.app/' style="height: 300px;"/></p>
+<p align="center"><img align=center src='https://randommeme-five.vercel.app/' style="height: 290px;"/></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DavidMojicaDev&icon=0&color=0)](https://visitcount.itsvg.in)
