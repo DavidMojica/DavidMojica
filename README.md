@@ -31,11 +31,11 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DavidMojicaDev&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMojicaDev&theme=shades-of-purple&hide_border=false&include_all_commits=False&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DavidMojica&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMojica&theme=shades-of-purple&hide_border=false&include_all_commits=False&count_private=true&layout=compact)
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidMojicaDev&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DavidMojica&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="center" >Comedy zone<h3>
 <p align="center"><img align=center src='https://randommeme-five.vercel.app/' style="height: 290px;"/></p>
