@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! I'm <a href="http://davidmojica.42web.io/" target="_BLANK">David Mojica</a> 🦅</h1>
 <h2 align="center">Backend Developer from Colombia 👍🏼</h2>
-<p align="center">💫 I'm Freelancer Developer & Software Development student at <a href="https://www.pascualbravo.edu.co">Institucion Universitaria Pascual Bravo </a> , soon to graduate in less than 3-4 months. I've been freelancing for 2 years, developing Web apps, UX/UI, desktop apps, videogames, and Discord bots.</p>
+<p align="center">💫 I'm Freelancer Developer & Software Development student at <a href="https://www.pascualbravo.edu.co">Institucion Universitaria Pascual Bravo </a> , soon to graduate in less than 1 month. I've been freelancing for 2 years, developing Web apps, UX/UI, desktop apps, videogames, and Discord bots.</p>
 
 <h3 align="center">🏆 <a href="http://davidmojica.42web.io/">Visit my Resume (Outdated)</a> 🏆</h3>
 
