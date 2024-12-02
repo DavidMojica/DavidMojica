@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm <a href="http://davidmojica.42web.io/" target="_BLANK">David Mojica</a> 🦅</h1> <h2 align="center">Software Developer from Colombia 👍🏼</h2> <p align="center">💫 I specialize in AI-powered chatbots, AI training, intelligent assistants, and Full-Stack web development. I completed my studies at <a href="https://www.pascualbravo.edu.co">Institucion Universitaria Pascual Bravo </a>. Currently i'm working on <a href="https://www.laproff.com/">Laproff S.A</a>, where I contribute to the development of web-based chatbots, APIs, and other essential software solutions tailored to the company's needs. I have over two years of experience as a freelance developer, working on projects such as data analysis platforms, e-commerce websites, internal enterprise commerce systems, inventory management systems, real estate platforms, web applications, Discord bots, mobile apps, and more.</p>
 
 <h3 align="center">let's talk together <img src="https://cdn-icons-png.flaticon.com/128/3002/3002655.png?ga=GA1.1.474962155.1696794002&track=ais"  align="center" width="40" height="40"> </h3>
-<p align="center">Currenly, I'm NOT open to work in collaborative projects</p>
+<p align="center">Currently, I'm NOT open to work in collaborative projects</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/david-mojica-a3898a265/" target="_blank"><img align=center src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidMojica" height="30" width="40" /></a>
