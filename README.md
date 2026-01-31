@@ -11,7 +11,7 @@ I'm currently working in a pharmaceutical laboratory developing full-stack appli
 <p align="center">Currently, I'm NOT open to work in collaborative projects</p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/david-mojica-a3898a265/" target="_blank"><img align=center src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidMojica" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/davidmojicav/" target="_blank"><img align=center src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidMojica" height="30" width="40" /></a>
     <a href="https://twitch.tv/caraqlo"> <img align="center" alt="wa+573197750000" src="https://cdn-icons-png.flaticon.com/128/2111/2111668.png?ga=GA1.1.474962155.1696794002&track=ais" height="40" width="40"></a>
 </p>
 
