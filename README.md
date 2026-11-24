@@ -1,11 +1,11 @@
 <h1 align="center">Greetings! I'm <a href="http://davidmojica.42web.io/" target="_BLANK">David Mojica</a> 🦅</h1> <h2 align="center">Software Developer from Colombia 👍🏼</h2>
-I'm a semi-senior developer with three years of experience in both corporate and freelance projects. I specialize in creating automations that simplify long and complex processes using artificial intelligence, adapting it to different types of applications and suites.
+I'm a software engineer who builds systems that make complex, repetitive work simpler. My focus is on applying artificial intelligence to real business processes, so that tasks which used to take long chains of manual steps can be handled reliably and automatically.
 
-I've developed everything from specialized OCR agents, LLMs, and SLMS to systems capable of generating an avatar from your image, cloning your voice, and responding in real time based on a pre-trained context.
+My work sits where software meets the day-to-day operations of a company: connecting applications to the systems a business already relies on, automating financial and administrative workflows, and turning scattered information into tools people can actually use. I like working end to end, from understanding the problem with the people who live it, to designing the solution, to putting it into production and keeping it healthy over time.
 
-Throughout my career, I've led and participated in the development and maintenance of web applications, PWAs, APIs, mobile apps, data analysis and normalization with tools such as Power BI and Metabase, as well as in the observability and performance optimization of existing systems. I've also worked on e-commerce platforms, CMSs, real estate portals, integrations with the META ecosystem (WhatsApp, Facebook, Instagram), and the creation of bots for WhatsApp, Discord, Telegram, among others.
+I've worked in both corporate and freelance settings, across web and mobile applications, APIs, e-commerce, portals, and conversational bots, for companies and public institutions in different sectors. That variety taught me to understand the business problem before writing a single line of code.
 
-I'm currently working in a pharmaceutical laboratory developing full-stack applications and AI-powered automation that integrate directly with those solutions, optimizing complex processes and saving internal teams a significant amount of time. I'm also completing my degree in Software Engineering.
+Today I work in a pharmaceutical laboratory, building full-stack applications and AI-powered automation, and I'm finishing my degree in Software Engineering. I enjoy mentoring teammates, sharing what I learn, and exploring new ways to make AI useful in practice rather than just impressive in a demo.
 
 <h3 align="center">let's talk together <img src="https://cdn-icons-png.flaticon.com/128/3002/3002655.png?ga=GA1.1.474962155.1696794002&track=ais"  align="center" width="40" height="40"> </h3>
 <p align="center">Currently, I'm NOT open to work in collaborative projects</p>
